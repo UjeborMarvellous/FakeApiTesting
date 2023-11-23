@@ -1,0 +1,14 @@
+*{
+    background: #fff;
+    color: #000;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.BA {
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px 0;
+}
